@@ -1,3 +1,4 @@
+// Calculadora da área do retângulo
 public class A03A0103 {
     public static void main(String[] args) {
         int a, b, area;
