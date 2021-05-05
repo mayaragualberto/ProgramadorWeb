@@ -1,3 +1,5 @@
+
+// Calcula média de um aluno a partir da leitura de suas notas
 import java.util.Scanner;
 
 public class IfDemo {
@@ -9,10 +11,10 @@ public class IfDemo {
 		nota2 = leitor.nextFloat();
 		nota3 = leitor.nextFloat();
 		nota4 = leitor.nextFloat();
-		media = (nota1 + nota2 + nota3 + nota4)/4;
-		if(media>=7) {
+		media = (nota1 + nota2 + nota3 + nota4) / 4;
+		if (media >= 7) {
 			System.out.println("O aluno foi aprovado!");
 		}
-		System.out.println("FIM!"); 
+		System.out.println("FIM!");
 	}
 }
