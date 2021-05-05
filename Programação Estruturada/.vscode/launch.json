@@ -1,0 +1,63 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch A03A0101",
+            "request": "launch",
+            "mainClass": "A03A0101",
+            "projectName": "Programação Estruturada_4685a5d5"
+        },
+        {
+            "type": "java",
+            "name": "Launch Atividade0101",
+            "request": "launch",
+            "mainClass": "Atividade0101",
+            "projectName": "Programação Estruturada_4685a5d5"
+        },
+        {
+            "type": "java",
+            "name": "Launch Atividade0103",
+            "request": "launch",
+            "mainClass": "Atividade0103",
+            "projectName": "Programação Estruturada_4685a5d5"
+        },
+        {
+            "type": "java",
+            "name": "Launch Atividade0102",
+            "request": "launch",
+            "mainClass": "Atividade0102",
+            "projectName": "Programação Estruturada_4685a5d5"
+        },
+        {
+            "type": "java",
+            "name": "Launch Atividade2",
+            "request": "launch",
+            "mainClass": "Atividade2",
+            "projectName": "Programação Estruturada_4685a5d5"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch Programa2",
+            "request": "launch",
+            "mainClass": "Programa2",
+            "projectName": "Programação Estruturada_4685a5d5"
+        },
+        {
+            "type": "java",
+            "name": "Launch ProgramaPrintln",
+            "request": "launch",
+            "mainClass": "ProgramaPrintln",
+            "projectName": "Programação Estruturada_4685a5d5"
+        }
+    ]
+}
