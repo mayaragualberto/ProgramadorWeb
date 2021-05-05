@@ -1,3 +1,4 @@
+//Estudo de operações matemáticas
 public class A03Programa2 {
     public static void main(String[] args) {
         int a = 3 - 2 * 5;

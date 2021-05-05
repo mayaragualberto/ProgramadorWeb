@@ -1,5 +1,5 @@
 
-// Calcula média de um aluno a partir da leitura de suas notas
+//Calcula média de um aluno a partir da leitura de suas notas
 import java.util.Scanner;
 
 public class IfDemo {
